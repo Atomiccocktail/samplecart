@@ -1,0 +1,25 @@
+{
+  "name": "samplecart",
+  "version": "1.0.0",
+  "description": "A Sample Cart App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atomiccocktail/samplecart.git"
+  },
+  "keywords": [
+    "Javascipt",
+    "HTML",
+    "Session",
+    "Storage"
+  ],
+  "author": "Navin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atomiccocktail/samplecart/issues"
+  },
+  "homepage": "https://github.com/Atomiccocktail/samplecart#readme"
+}
